@@ -64,13 +64,12 @@ The platform focuses on supporting NGOs, municipal bodies, and environmental age
 ## 📷 Screenshots
 
 ### Dashboard
+<img src="Dashboard.png" width="800"/>
 
 
-### Monitoring Panel
-(Add monitoring panel screenshot here)
 
 ### Analytics Section
-(Add analytics screenshot here)
+<img src="Analytical.png" width="800"/>
 
 ---
 
