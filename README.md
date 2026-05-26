@@ -82,10 +82,9 @@ The platform focuses on supporting NGOs, municipal bodies, and environmental age
 - Public transparency portal
 - Mobile application support
 
----
 
 ## 👩‍💻 Author
 
-[Your Name]
+Bajariya Nidhi
 
-GitHub: Your GitHub Profile Link
+
